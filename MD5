@@ -1,0 +1,8 @@
+3afe1c5089837cc6657e330ff769c935 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+3127eeebbf0e68e401006d9f7b27c32e *R/tablemissing.R
+d3074cbad9c26490714b8c0e4fcd9e7c *R/vmv-internal.R
+d861d39d6f0046f52f9548a66dde8957 *data/adult.rda
+9b46ded33f3cb450df637c6e891ab3e3 *man/adult.Rd
+427c868ba67606fda8705b30d31271fd *man/tablemissing.Rd
+e7db595978e5c9220cad6383e5d5d387 *man/vmv-internal.Rd
